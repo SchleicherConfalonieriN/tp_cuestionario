@@ -1,0 +1,107 @@
+body {
+  background-image: url("imagen/body.jpg");
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.titulo{
+
+text-align: center;
+ 
+}
+
+
+.imagen{
+	max-width: 100%;
+    max-height: 100%;
+}
+
+
+#footer{
+display: inline-block;
+vertical-align: middle;
+margin-top: 20%;
+margin-left: 17%;
+text-align: center;
+
+
+}
+
+#contenedor_aplicacion{
+
+
+text-align: center;
+margin-top: 5%;
+
+}
+
+
+#contenedor_preguntas{
+position: absolute;
+text-align: center;
+margin-left: 33%;
+
+
+
+}
+
+.r{
+height: 235px;
+width: 420px;
+background-color: greenyellow;
+border-radius: 10px;
+padding-top: 30px;
+padding-bottom:30px ;
+padding-left: 25px;
+position: absolute;
+font-size: 100%;	
+border: 2px solid black;
+}
+
+
+
+#siguiente{
+
+
+float: right;
+height: 90px;
+width: 100px;
+margin-right: 20%;
+}
+
+#anterior{
+
+
+margin-left: 18%;
+float: left;
+height: 90px;
+width: 100px;
+}
+
+.bt{
+background-color: greenyellow;
+border-radius: 10px;
+margin-top: 10px;
+height: 83px;
+width: 200px;
+border: 2px solid black;
+padding-top: 7px;
+font-size: 25px;
+}
+
+
+#resultado{
+
+border: 2px solid black;
+}
+
+#terminar{
+
+
+
+	
+}
+
+.bt:hover{
+
+	border: 5px solid black;
+}
